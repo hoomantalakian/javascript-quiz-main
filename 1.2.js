@@ -1,6 +1,6 @@
 // - 1.2 Promises , write the orders which logs show us
 
-// NOTE: I am note sure what is the point of question exactly, but if we are taling about response priority after executing a promise, the answer is someyhing like below:
+// NOTE: I am not sure what is the point of question exactly, but if we are talking about response priority after executing a Promise, the answer is something like below:
 
 new Promise((resolve, reject) => {
 	console.log("Promise 1"); // log 1
